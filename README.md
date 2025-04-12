@@ -37,3 +37,11 @@
    ```bash
    ./main
    ```
+
+## Screenshots
+
+<img src="https://i.imgur.com/kxzxkB3.png" alt="Main Menu Interface">
+
+<img src="https://i.imgur.com/FvdctVg.png" alt="Main Menu Interface">
+
+<img src="https://i.imgur.com/8NYVZJN.png" alt="Main Menu Interface">
