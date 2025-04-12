@@ -1,7 +1,7 @@
-# LibrarySystem
-
-A simple library management system written in C to manage books with features like adding, deleting, editing, searching, sorting, and saving to a file.
-
+# Library Management System
+![Language](https://img.shields.io/badge/language%20C-%23548dff?style=for-the-badge&logo=c&logoColor=FFFFFF)
+![Size](https://img.shields.io/github/repo-size/Akineyshen/LibrarySystem?label=Size&style=for-the-badge&color=548dff&labelColor=FCFCFC)
+![Last Commit](https://img.shields.io/github/last-commit/Akineyshen/LibrarySystem?label=Last%20Commit&style=for-the-badge&color=548dff&labelColor=FCFCFC)
 ## Features
 - **Add a Book**: Add new books with details including author, title, category, year, publisher, and availability (1 for available, 0 for not available).
 - **Delete a Book**: Remove a book from the library by its catalog number.
