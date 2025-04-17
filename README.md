@@ -1,8 +1,7 @@
 # Library Management System
-![Language](https://img.shields.io/badge/language%20C-%23548dff?style=for-the-badge&logo=c&logoColor=FFFFFF)
+![Language](https://img.shields.io/badge/Language-Java-brightgreen?style=for-the-badge&logo=c&logoColor=548dff&color=548dff&labelColor=FCFCFC)
 ![Size](https://img.shields.io/github/repo-size/Akineyshen/LibrarySystem?label=Size&style=for-the-badge&color=548dff&labelColor=FCFCFC)
 ![Last Commit](https://img.shields.io/github/last-commit/Akineyshen/LibrarySystem?label=Last%20Commit&style=for-the-badge&color=548dff&labelColor=FCFCFC)
-![Progress](https://img.shields.io/badge/Progress-Completed-brightgreen?style=for-the-badge&color=2FBE7C&labelColor=FCFCFC)
 
 ## Features
 - **Add a Book**: Add new books with details including author, title, category, year, publisher, and availability (1 for available, 0 for not available).
