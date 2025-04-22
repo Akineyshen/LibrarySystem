@@ -1,5 +1,5 @@
 # Library Management System
-![Language](https://img.shields.io/badge/Language-Java-brightgreen?style=for-the-badge&logo=c&logoColor=548dff&color=548dff&labelColor=FCFCFC)
+![Language](https://img.shields.io/badge/Language-C-brightgreen?style=for-the-badge&logo=c&logoColor=548dff&color=548dff&labelColor=FCFCFC)
 ![Size](https://img.shields.io/github/repo-size/Akineyshen/LibrarySystem?label=Size&style=for-the-badge&color=548dff&labelColor=FCFCFC)
 ![Last Commit](https://img.shields.io/github/last-commit/Akineyshen/LibrarySystem?label=Last%20Commit&style=for-the-badge&color=548dff&labelColor=FCFCFC)
 
